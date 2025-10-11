@@ -52,6 +52,12 @@ let videos = [
         title: "KILL BILL (ft. @rezonay_ ) I Ryngo Highlights",
         creator: "R Y N G O",
         rating: null,
+    },
+    {
+        youTubeUrl: "https://www.youtube.com/watch?v=e0vFwQuCgN8",
+        title: "Radioactive ☢ Tryus Highlights #5",
+        creator: "Tryus",
+        rating: null,
     }
 ];
 
